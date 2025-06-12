@@ -1,0 +1,5 @@
+.env
+audios/** 
+*.wav
+backup.zip
+__pycache__/
